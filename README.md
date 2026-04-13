@@ -100,6 +100,7 @@ This project demonstrates the implementation of **risk-based Conditional Access 
 ### Step 7 – Enable Policy
 - Set to: **Report-only** (testing phase)
 - Then switch to: **On**
+
 ![condition21](https://github.com/user-attachments/assets/4b095c25-52e1-48ea-952b-757dbf31cf6f)
 
 
