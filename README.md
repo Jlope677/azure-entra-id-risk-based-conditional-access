@@ -34,6 +34,7 @@ This project demonstrates the implementation of **risk-based Conditional Access 
 ### Step 2 – Create New Policy
 - Click: **New Policy**
 - Name: `Medium or High require MFA Entra ID`
+![condition3](https://github.com/user-attachments/assets/765192db-5546-45eb-8d44-64483037c79f)
 ![condition3](https://github.com/user-attachments/assets/80d6b285-66d8-4d00-81a5-395042bb09a7)
 ![condition17](https://github.com/user-attachments/assets/9f5979fa-9958-4d05-b46e-1acf4c93823a)
 
@@ -57,7 +58,6 @@ This project demonstrates the implementation of **risk-based Conditional Access 
 - Include:
   - Medium
   - High
-![condition3](https://github.com/user-attachments/assets/765192db-5546-45eb-8d44-64483037c79f)
 ![condition5](https://github.com/user-attachments/assets/bce7cbcf-5bdb-45c8-9c42-2dcd57eb5875)
 ![condition6](https://github.com/user-attachments/assets/1a905ee4-c739-4f3e-a327-b223137cad1b)
 ![condition7](https://github.com/user-attachments/assets/ff113431-fa56-41bb-a081-fd3c99891134)
